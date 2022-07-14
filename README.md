@@ -5,13 +5,15 @@ Diyan Arum Maheswari  (312010133)
 Teknik Informatika - UNIVERSITAS PELITA BANGSA
 ______________________________________________
 
-## FILE DOKUMENTASI SISTEM
+## VIDEO DOKUMENTASI SISTEM (YouTube)
 
-
+https://youtu.be/Osw3F8FivyQ
 
 ## LINK DEMO APLIKASI  WEB HOSTING
 
-E-mail   : 
+Web : 
 
-Password :
+E-mail   : diyanarum28@gmail.com
+
+Password : UASWEB
 
